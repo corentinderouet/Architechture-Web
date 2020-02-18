@@ -9,7 +9,4 @@ Infos :
 https://stackoverflow.com/questions/43426919/how-do-i-make-a-basic-typeahead-search-of-json-data-using-javascript-or-jquery
 
 
-API DEEZER 
 
-L'utilisateur pourra se renseigner et rechercher des musiques autour de ses centres d'interêts. Le site comprendra donc une barre de recherche permettant à l'utilisateur de rechercher un artiste, un album ou un titre en particulier par exemple.
-Le site proposera des playlists, des radios et des artistes. Le site sera muni d'un deuxième onglet "Découverte" permettant à l'utilisateur de rentrer un Pays par un menu déroulant 
